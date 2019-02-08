@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_Exp01", "MFC_Exp01\MFC_Exp01.vcxproj", "{603689A4-FE2E-484F-ABC5-FA159CDDF328}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv test", "opencv test\opencv test.vcxproj", "{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Debug|Win32.ActiveCfg = Debug|Win32
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Debug|Win32.Build.0 = Debug|Win32
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Debug|x64.ActiveCfg = Debug|Win32
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Release|Win32.ActiveCfg = Release|Win32
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Release|Win32.Build.0 = Release|Win32
+		{603689A4-FE2E-484F-ABC5-FA159CDDF328}.Release|x64.ActiveCfg = Release|Win32
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Debug|Win32.Build.0 = Debug|Win32
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Debug|x64.ActiveCfg = Debug|x64
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Debug|x64.Build.0 = Debug|x64
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Release|Win32.ActiveCfg = Release|Win32
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Release|Win32.Build.0 = Release|Win32
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Release|x64.ActiveCfg = Release|x64
+		{7911894C-C6DA-469E-9E7F-9D8D968D7E5D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F696231C-78D9-44EE-9D03-F27A1E23B26A}
+	EndGlobalSection
+EndGlobal

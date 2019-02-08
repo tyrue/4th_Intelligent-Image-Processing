@@ -1,0 +1,122 @@
+﻿  MFC_Exp01Doc.cpp
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(139): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(149): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(152): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(241): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(243): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(272): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(274): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(292): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(293): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(309): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(311): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(335): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(337): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(396): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(398): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(425): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(427): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(498): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(500): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(527): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(529): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(542): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(546): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(565): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(567): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(582): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(587): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(621): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(622): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(642): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(644): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(709): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(711): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(717): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(723): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(727): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(707): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(707): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(707): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(707): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(756): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(758): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(807): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(809): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(877): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(880): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(882): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(890): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(891): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(955): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(958): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(970): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(972): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(925): warning C4101: 'y2' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(925): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1004): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1037): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1039): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1050): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1067): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1069): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1083): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1085): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1125): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1167): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1169): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1180): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1182): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1190): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1192): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1198): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1200): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1216): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1218): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1229): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1231): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1239): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1241): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1247): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1261): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1263): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1288): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1316): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1318): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1326): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1336): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1338): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1344): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1346): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1367): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1367): warning C4244: '초기화 중': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1426): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1426): warning C4244: '초기화 중': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1458): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1458): warning C4244: '초기화 중': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1495): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1497): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1520): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1522): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1530): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1532): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1534): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1539): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1541): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1560): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1562): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1576): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1578): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1592): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1594): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1601): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\doohyun\documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\mfc_exp09\mfc_exp01\mfc_exp01doc.cpp(1603): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Matrix.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  MFC_Exp01.vcxproj -> C:\Users\DooHyun\Documents\자주 쓰는 것들\학교 문서들\4학년\2학기\지능형영상처리\과제\프로젝트\과제-일반코드\MFC_Exp09\Debug\MFC_Exp01.exe
